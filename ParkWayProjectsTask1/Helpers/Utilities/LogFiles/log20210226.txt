@@ -1,0 +1,470 @@
+2021-02-26 19:17:22.617 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:17:24.427 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:17:24.427 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:17:24.427 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:17:24.712 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:17:24.766 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:17:24.943 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:17:25.015 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:17:25.243 +01:00 [INF] Executed ViewResult - view Index executed in 229.0488ms.
+2021-02-26 19:17:25.245 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 301.6421ms
+2021-02-26 19:17:25.248 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:17:25.260 +01:00 [INF] Request finished in 550.6861ms 200 text/html; charset=utf-8
+2021-02-26 19:17:25.576 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/lib/jquery/dist/jquery.min.js  
+2021-02-26 19:17:25.578 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2021-02-26 19:17:25.578 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2021-02-26 19:17:25.609 +01:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2021-02-26 19:17:25.609 +01:00 [INF] The file /js/site.js was not modified
+2021-02-26 19:17:25.609 +01:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2021-02-26 19:17:25.615 +01:00 [INF] Request finished in 37.0595ms 304 application/javascript
+2021-02-26 19:17:25.615 +01:00 [INF] Request finished in 39.1956ms 304 application/javascript
+2021-02-26 19:17:25.615 +01:00 [INF] Request finished in 37.0575ms 304 application/javascript
+2021-02-26 19:18:23.007 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 19:18:23.061 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:18:23.063 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 19:18:23.101 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 19:18:23.269 +01:00 [INF] Executed ViewResult - view Upload executed in 204.7289ms.
+2021-02-26 19:18:23.269 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 206.3977ms
+2021-02-26 19:18:23.270 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:18:23.270 +01:00 [INF] Request finished in 263.3389ms 200 text/html; charset=utf-8
+2021-02-26 19:18:24.683 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:18:24.684 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:18:24.684 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:18:24.685 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:18:24.687 +01:00 [INF] Executed ViewResult - view Index executed in 1.8801ms.
+2021-02-26 19:18:24.687 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 2.2972ms
+2021-02-26 19:18:24.687 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:18:24.687 +01:00 [INF] Request finished in 3.7795ms 200 text/html; charset=utf-8
+2021-02-26 19:18:26.504 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 19:18:26.507 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:18:26.507 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 19:18:26.509 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 19:18:26.511 +01:00 [INF] Executed ViewResult - view Upload executed in 3.0131ms.
+2021-02-26 19:18:26.511 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 3.6082ms
+2021-02-26 19:18:26.511 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:18:26.511 +01:00 [INF] Request finished in 7.3016ms 200 text/html; charset=utf-8
+2021-02-26 19:18:31.536 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:18:31.538 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:18:31.542 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:18:31.544 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:18:31.549 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 5.5207ms.
+2021-02-26 19:18:31.549 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 6.431ms
+2021-02-26 19:18:31.549 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:18:31.549 +01:00 [INF] Request finished in 13.002ms 200 text/html; charset=utf-8
+2021-02-26 19:18:47.564 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 193
+2021-02-26 19:18:47.565 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:18:47.694 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:18:48.373 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:18:48.375 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.4403ms.
+2021-02-26 19:18:48.375 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 680.8123ms
+2021-02-26 19:18:48.375 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:18:48.375 +01:00 [INF] Request finished in 811.9337ms 200 text/html; charset=utf-8
+2021-02-26 19:18:59.714 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 194
+2021-02-26 19:18:59.715 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:18:59.715 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:18:59.719 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:18:59.724 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 5.4455ms.
+2021-02-26 19:18:59.724 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 8.9238ms
+2021-02-26 19:18:59.725 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:18:59.725 +01:00 [INF] Request finished in 11.3307ms 200 text/html; charset=utf-8
+2021-02-26 19:19:19.530 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:19:19.530 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:19:19.531 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:19:19.532 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:19:19.536 +01:00 [INF] Executed ViewResult - view Index executed in 4.1065ms.
+2021-02-26 19:19:19.536 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 4.8144ms
+2021-02-26 19:19:19.536 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:19:19.536 +01:00 [INF] Request finished in 6.5099ms 200 text/html; charset=utf-8
+2021-02-26 19:20:17.997 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:20:18.679 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:20:18.679 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:20:18.679 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:20:18.711 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:20:18.736 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:20:18.779 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:20:18.796 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:20:18.921 +01:00 [INF] Executed ViewResult - view Index executed in 125.9916ms.
+2021-02-26 19:20:18.923 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 143.2506ms
+2021-02-26 19:20:18.924 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:20:18.928 +01:00 [INF] Request finished in 219.0885ms 200 text/html; charset=utf-8
+2021-02-26 19:20:25.259 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:20:25.262 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:20:25.263 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:20:25.265 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:20:25.278 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 13.925ms.
+2021-02-26 19:20:25.278 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 14.747ms
+2021-02-26 19:20:25.278 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:20:25.279 +01:00 [INF] Request finished in 20.3842ms 200 text/html; charset=utf-8
+2021-02-26 19:20:31.677 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 191
+2021-02-26 19:20:31.681 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:20:31.698 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:20:31.759 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:20:31.764 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 5.3237ms.
+2021-02-26 19:20:31.764 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 66.357ms
+2021-02-26 19:20:31.764 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:20:31.764 +01:00 [INF] Request finished in 88.2613ms 200 text/html; charset=utf-8
+2021-02-26 19:20:51.545 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 194
+2021-02-26 19:20:51.546 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:20:51.547 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:20:51.730 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:20:51.733 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.7102ms.
+2021-02-26 19:20:51.733 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 186.1484ms
+2021-02-26 19:20:51.733 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:20:51.733 +01:00 [INF] Request finished in 188.4217ms 200 text/html; charset=utf-8
+2021-02-26 19:21:16.748 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 19:21:16.752 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:21:16.755 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 19:21:16.756 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 19:21:16.761 +01:00 [INF] Executed ViewResult - view Upload executed in 5.6644ms.
+2021-02-26 19:21:16.761 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 6.6661ms
+2021-02-26 19:21:16.761 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:21:16.762 +01:00 [INF] Request finished in 13.5195ms 200 text/html; charset=utf-8
+2021-02-26 19:22:53.214 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:22:53.510 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:22:53.511 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:22:53.511 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:22:53.627 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:22:53.650 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:22:53.692 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:22:53.712 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:22:53.807 +01:00 [INF] Executed ViewResult - view Index executed in 96.594ms.
+2021-02-26 19:22:53.808 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 114.8747ms
+2021-02-26 19:22:53.809 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:22:53.812 +01:00 [INF] Request finished in 187.9191ms 200 text/html; charset=utf-8
+2021-02-26 19:22:53.842 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/lib/bootstrap/dist/css/bootstrap.min.css  
+2021-02-26 19:22:53.847 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/css/site.css  
+2021-02-26 19:22:53.848 +01:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2021-02-26 19:22:53.848 +01:00 [INF] The file /css/site.css was not modified
+2021-02-26 19:22:53.849 +01:00 [INF] Request finished in 6.7161ms 304 text/css
+2021-02-26 19:22:53.849 +01:00 [INF] Request finished in 2.2062ms 304 text/css
+2021-02-26 19:23:27.035 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:23:27.496 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:23:27.496 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:23:27.499 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:23:27.520 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:23:27.544 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:23:27.586 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:23:27.602 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:23:27.703 +01:00 [INF] Executed ViewResult - view Index executed in 101.9031ms.
+2021-02-26 19:23:27.705 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 118.0399ms
+2021-02-26 19:23:27.705 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:23:27.709 +01:00 [INF] Request finished in 190.8671ms 200 text/html; charset=utf-8
+2021-02-26 19:23:32.460 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:23:32.466 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:32.469 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:23:32.470 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:23:32.486 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 16.3329ms.
+2021-02-26 19:23:32.486 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 17.2288ms
+2021-02-26 19:23:32.486 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:32.486 +01:00 [INF] Request finished in 26.0631ms 200 text/html; charset=utf-8
+2021-02-26 19:23:36.035 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 194
+2021-02-26 19:23:36.040 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:36.057 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:23:36.221 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:23:36.223 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.6125ms.
+2021-02-26 19:23:36.224 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 167.208ms
+2021-02-26 19:23:36.224 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:36.229 +01:00 [INF] Request finished in 193.253ms 200 text/html; charset=utf-8
+2021-02-26 19:23:41.800 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 191
+2021-02-26 19:23:41.800 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:41.801 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:23:41.803 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:23:41.805 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.1685ms.
+2021-02-26 19:23:41.805 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 3.8419ms
+2021-02-26 19:23:41.805 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:41.805 +01:00 [INF] Request finished in 6.2167ms 200 text/html; charset=utf-8
+2021-02-26 19:23:57.002 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 193
+2021-02-26 19:23:57.003 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:57.004 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:23:57.006 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:23:57.010 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 3.448ms.
+2021-02-26 19:23:57.010 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 5.8656ms
+2021-02-26 19:23:57.010 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:23:57.010 +01:00 [INF] Request finished in 7.7804ms 200 text/html; charset=utf-8
+2021-02-26 19:24:03.932 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 194
+2021-02-26 19:24:03.933 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:24:03.934 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:24:04.406 +01:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 400
+2021-02-26 19:24:04.407 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 473.1985ms
+2021-02-26 19:24:04.407 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:24:04.446 +01:00 [INF] Request finished in 513.5611ms 400 
+2021-02-26 19:25:04.161 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:25:05.289 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:25:05.289 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:25:05.289 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:25:05.347 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:25:05.370 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:25:05.426 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:25:05.441 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:25:05.590 +01:00 [INF] Executed ViewResult - view Index executed in 149.5399ms.
+2021-02-26 19:25:05.591 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 164.6394ms
+2021-02-26 19:25:05.592 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:25:05.596 +01:00 [INF] Request finished in 252.2909ms 200 text/html; charset=utf-8
+2021-02-26 19:25:08.497 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:25:08.502 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:25:08.504 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:25:08.505 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:25:08.521 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 15.9536ms.
+2021-02-26 19:25:08.522 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 17.4098ms
+2021-02-26 19:25:08.522 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:25:08.524 +01:00 [INF] Request finished in 25.445ms 200 text/html; charset=utf-8
+2021-02-26 19:25:19.712 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:25:19.712 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:25:19.713 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:25:19.714 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:25:19.717 +01:00 [INF] Executed ViewResult - view Index executed in 3.2256ms.
+2021-02-26 19:25:19.717 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 3.8354ms
+2021-02-26 19:25:19.717 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:25:19.718 +01:00 [INF] Request finished in 6.0374ms 200 text/html; charset=utf-8
+2021-02-26 19:25:21.077 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:25:21.080 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:25:21.081 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:25:21.081 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:25:21.084 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.658ms.
+2021-02-26 19:25:21.084 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 3.1819ms
+2021-02-26 19:25:21.084 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:25:21.084 +01:00 [INF] Request finished in 7.1558ms 200 text/html; charset=utf-8
+2021-02-26 19:27:08.092 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:27:08.385 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:27:08.388 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:27:08.388 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:27:08.412 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:27:08.438 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:27:08.477 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:27:08.497 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:27:08.597 +01:00 [INF] Executed ViewResult - view Index executed in 103.6515ms.
+2021-02-26 19:27:08.600 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 122.7648ms
+2021-02-26 19:27:08.601 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:27:08.603 +01:00 [INF] Request finished in 193.8224ms 200 text/html; charset=utf-8
+2021-02-26 19:27:10.282 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:27:10.289 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:27:10.292 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:27:10.294 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:27:10.306 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 13.4569ms.
+2021-02-26 19:27:10.307 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 14.7614ms
+2021-02-26 19:27:10.307 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:27:10.307 +01:00 [INF] Request finished in 25.4279ms 200 text/html; charset=utf-8
+2021-02-26 19:30:18.285 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:30:18.645 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:30:18.645 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:30:18.645 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:30:18.676 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:30:18.699 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:30:18.740 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:30:18.753 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:30:18.871 +01:00 [INF] Executed ViewResult - view Index executed in 118.8975ms.
+2021-02-26 19:30:18.878 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 137.6971ms
+2021-02-26 19:30:18.878 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:30:18.882 +01:00 [INF] Request finished in 207.5028ms 200 text/html; charset=utf-8
+2021-02-26 19:30:20.733 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:30:20.737 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:30:20.740 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:30:20.742 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:30:21.034 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 292.6272ms.
+2021-02-26 19:30:21.077 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 337.3312ms
+2021-02-26 19:30:21.078 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:30:21.078 +01:00 [INF] Request finished in 345.5748ms 200 text/html; charset=utf-8
+2021-02-26 19:30:35.450 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 192
+2021-02-26 19:30:35.453 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:30:35.748 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:30:40.811 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:30:40.814 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 3.2026ms.
+2021-02-26 19:30:40.814 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 5066.0553ms
+2021-02-26 19:30:40.814 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:30:40.814 +01:00 [INF] Request finished in 5364.7177ms 200 text/html; charset=utf-8
+2021-02-26 19:30:51.222 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 19:30:51.225 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:30:51.230 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 19:30:51.233 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 19:30:51.238 +01:00 [INF] Executed ViewResult - view Upload executed in 7.0634ms.
+2021-02-26 19:30:51.239 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 8.1609ms
+2021-02-26 19:30:51.239 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:30:51.239 +01:00 [INF] Request finished in 17.2559ms 200 text/html; charset=utf-8
+2021-02-26 19:37:09.751 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:37:10.509 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:37:10.509 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:37:10.510 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:37:10.549 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:37:10.573 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:37:10.616 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:37:10.631 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:37:10.730 +01:00 [INF] Executed ViewResult - view Index executed in 101.0261ms.
+2021-02-26 19:37:10.732 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 115.7232ms
+2021-02-26 19:37:10.733 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:37:10.736 +01:00 [INF] Request finished in 189.5688ms 200 text/html; charset=utf-8
+2021-02-26 19:55:40.460 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:55:43.666 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:55:43.667 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:55:43.667 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:55:43.774 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:55:43.800 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:55:43.949 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:55:43.968 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:55:44.160 +01:00 [INF] Executed ViewResult - view Index executed in 193.8246ms.
+2021-02-26 19:55:44.277 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 328.0244ms
+2021-02-26 19:55:44.298 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:55:44.305 +01:00 [INF] Request finished in 533.457ms 200 text/html; charset=utf-8
+2021-02-26 19:58:04.617 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 19:58:04.765 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:58:04.770 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:58:04.820 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:58:05.647 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 874.654ms.
+2021-02-26 19:58:05.647 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 876.4683ms
+2021-02-26 19:58:05.647 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:58:05.647 +01:00 [INF] Request finished in 1030.4902ms 200 text/html; charset=utf-8
+2021-02-26 19:58:18.498 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 192
+2021-02-26 19:58:18.500 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:58:19.154 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:58:19.746 +01:00 [INF] Message: Transaction Fee Calculation was Successful Amount Transferred: Transfer Amount: N10 Amount Charged: Charge: N10
+2021-02-26 19:58:19.746 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:58:19.748 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.3503ms.
+2021-02-26 19:58:19.749 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 594.8475ms
+2021-02-26 19:58:19.749 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:58:19.749 +01:00 [INF] Request finished in 1251.8186ms 200 text/html; charset=utf-8
+2021-02-26 19:58:30.120 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 194
+2021-02-26 19:58:30.121 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:58:30.121 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 19:58:30.123 +01:00 [INF] Message: Transaction Fee Calculation was Successful Amount Transferred: Transfer Amount: N2000 Amount Charged: Charge: N10
+2021-02-26 19:58:30.123 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 19:58:30.125 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.2084ms.
+2021-02-26 19:58:30.125 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 4.1164ms
+2021-02-26 19:58:30.126 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 19:58:30.126 +01:00 [INF] Request finished in 5.9752ms 200 text/html; charset=utf-8
+2021-02-26 19:58:59.854 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 19:58:59.855 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:58:59.859 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 19:58:59.861 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 19:58:59.866 +01:00 [INF] Executed ViewResult - view Upload executed in 5.8781ms.
+2021-02-26 19:58:59.866 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 6.6881ms
+2021-02-26 19:58:59.866 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:58:59.866 +01:00 [INF] Request finished in 15.59ms 200 text/html; charset=utf-8
+2021-02-26 19:59:06.692 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/UploadConfiguration/Upload multipart/form-data; boundary=---------------------------39141646435339808642548571091 785
+2021-02-26 19:59:06.694 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:59:06.698 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile) on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 19:59:07.083 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 19:59:07.085 +01:00 [INF] Executed ViewResult - view Upload executed in 1.8409ms.
+2021-02-26 19:59:07.085 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 386.8098ms
+2021-02-26 19:59:07.085 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 19:59:07.085 +01:00 [INF] Request finished in 393.3453ms 200 text/html; charset=utf-8
+2021-02-26 19:59:42.008 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 19:59:42.403 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 19:59:42.403 +01:00 [INF] Hosting environment: Development
+2021-02-26 19:59:42.403 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 19:59:42.447 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 19:59:42.475 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:59:42.526 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 19:59:42.541 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 19:59:42.711 +01:00 [INF] Executed ViewResult - view Index executed in 168.8952ms.
+2021-02-26 19:59:42.713 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 187.4032ms
+2021-02-26 19:59:42.714 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 19:59:42.718 +01:00 [INF] Request finished in 274.1363ms 200 text/html; charset=utf-8
+2021-02-26 20:00:25.501 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 20:00:25.507 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:00:25.512 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 20:00:25.542 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 20:00:25.556 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 43.5198ms.
+2021-02-26 20:00:25.557 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 44.5084ms
+2021-02-26 20:00:25.557 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:00:25.557 +01:00 [INF] Request finished in 56.6828ms 200 text/html; charset=utf-8
+2021-02-26 20:00:26.837 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 20:00:26.839 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:00:26.841 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 20:00:26.842 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 20:00:26.847 +01:00 [INF] Executed ViewResult - view Upload executed in 5.8187ms.
+2021-02-26 20:00:26.849 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 7.7751ms
+2021-02-26 20:00:26.849 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:00:26.852 +01:00 [INF] Request finished in 15.8856ms 200 text/html; charset=utf-8
+2021-02-26 20:00:32.288 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/UploadConfiguration/Upload multipart/form-data; boundary=---------------------------9023762719093642682900712327 782
+2021-02-26 20:00:32.289 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:00:32.307 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile) on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 20:00:32.461 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 20:00:32.463 +01:00 [INF] Executed ViewResult - view Upload executed in 2.1186ms.
+2021-02-26 20:00:32.463 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 155.5847ms
+2021-02-26 20:00:32.463 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:00:32.463 +01:00 [INF] Request finished in 175.5461ms 200 text/html; charset=utf-8
+2021-02-26 20:00:38.207 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 20:00:38.209 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:00:38.209 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 20:00:38.210 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 20:00:38.212 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.3904ms.
+2021-02-26 20:00:38.212 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 2.8824ms
+2021-02-26 20:00:38.212 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:00:38.212 +01:00 [INF] Request finished in 5.7124ms 200 text/html; charset=utf-8
+2021-02-26 20:00:43.691 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 194
+2021-02-26 20:00:43.692 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:00:43.697 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 20:00:43.953 +01:00 [INF] Message: Transaction Fee Calculation was Successful Amount Transferred: Transfer Amount: N1000 Amount Charged: Charge: N10
+2021-02-26 20:00:43.954 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 20:00:43.956 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.535ms.
+2021-02-26 20:00:43.956 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 258.582ms
+2021-02-26 20:00:43.956 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:00:43.956 +01:00 [INF] Request finished in 264.7699ms 200 text/html; charset=utf-8
+2021-02-26 20:00:48.211 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 20:00:48.211 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 20:00:48.211 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 20:00:48.212 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 20:00:48.216 +01:00 [INF] Executed ViewResult - view Index executed in 3.5725ms.
+2021-02-26 20:00:48.216 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 4.1846ms
+2021-02-26 20:00:48.216 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 20:00:48.216 +01:00 [INF] Request finished in 5.9983ms 200 text/html; charset=utf-8
+2021-02-26 20:01:05.171 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 20:01:05.171 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:01:05.172 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 20:01:05.172 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 20:01:05.176 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 3.5082ms.
+2021-02-26 20:01:05.176 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 4.0675ms
+2021-02-26 20:01:05.176 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:01:05.176 +01:00 [INF] Request finished in 5.51ms 200 text/html; charset=utf-8
+2021-02-26 20:01:40.352 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 20:01:40.354 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 20:01:40.355 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 20:01:40.355 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 20:01:40.359 +01:00 [INF] Executed ViewResult - view Index executed in 3.9053ms.
+2021-02-26 20:01:40.360 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 4.7448ms
+2021-02-26 20:01:40.361 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 20:01:40.364 +01:00 [INF] Request finished in 12.2233ms 200 text/html; charset=utf-8
+2021-02-26 20:01:45.115 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/UploadConfiguration/Upload  
+2021-02-26 20:01:45.116 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:01:45.116 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 20:01:45.117 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 20:01:45.124 +01:00 [INF] Executed ViewResult - view Upload executed in 7.1551ms.
+2021-02-26 20:01:45.125 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 8.5706ms
+2021-02-26 20:01:45.125 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:01:46.041 +01:00 [INF] Request finished in 9.6605ms 200 text/html; charset=utf-8
+2021-02-26 20:01:51.112 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/UploadConfiguration/Upload multipart/form-data; boundary=---------------------------357158225428353344933943197578 526
+2021-02-26 20:01:51.113 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:01:51.113 +01:00 [INF] Route matched with {action = "Upload", controller = "UploadConfiguration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile) on controller ParkWayProjectsTask1.Controllers.UploadConfigurationController (ParkWayProjectsTask1).
+2021-02-26 20:01:51.115 +01:00 [INF] Executing ViewResult, running view Upload.
+2021-02-26 20:01:51.117 +01:00 [INF] Executed ViewResult - view Upload executed in 1.8588ms.
+2021-02-26 20:01:51.117 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1) in 4.0921ms
+2021-02-26 20:01:51.117 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.UploadConfigurationController.Upload (ParkWayProjectsTask1)'
+2021-02-26 20:01:51.117 +01:00 [INF] Request finished in 5.0194ms 200 text/html; charset=utf-8
+2021-02-26 20:08:20.873 +01:00 [INF] User profile is available. Using 'C:\Users\TELNET-SP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-26 20:08:21.120 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 20:08:21.120 +01:00 [INF] Hosting environment: Development
+2021-02-26 20:08:21.120 +01:00 [INF] Content root path: C:\ASPNETApplications\ParkWayProjectsTask1\ParkWayProjectsTask1
+2021-02-26 20:08:21.149 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/  
+2021-02-26 20:08:21.172 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 20:08:21.211 +01:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ParkWayProjectsTask1.Controllers.HomeController (ParkWayProjectsTask1).
+2021-02-26 20:08:21.225 +01:00 [INF] Executing ViewResult, running view Index.
+2021-02-26 20:08:21.338 +01:00 [INF] Executed ViewResult - view Index executed in 113.9075ms.
+2021-02-26 20:08:21.341 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1) in 129.6999ms
+2021-02-26 20:08:21.341 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.HomeController.Index (ParkWayProjectsTask1)'
+2021-02-26 20:08:21.345 +01:00 [INF] Request finished in 198.4261ms 200 text/html; charset=utf-8
+2021-02-26 20:08:30.947 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:15346/Transactions/CalculateTransactionFee  
+2021-02-26 20:08:30.950 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:08:30.952 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateTransactionFee() on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 20:08:30.954 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 20:08:30.967 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 14.8644ms.
+2021-02-26 20:08:30.968 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 16.3575ms
+2021-02-26 20:08:30.968 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:08:30.971 +01:00 [INF] Request finished in 24.1393ms 200 text/html; charset=utf-8
+2021-02-26 20:08:34.444 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:15346/Transactions/CalculateTransactionFee application/x-www-form-urlencoded 193
+2021-02-26 20:08:34.447 +01:00 [INF] Executing endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:08:34.464 +01:00 [INF] Route matched with {action = "CalculateTransactionFee", controller = "Transactions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateTransactionFee(Int64) on controller ParkWayProjectsTask1.Controllers.TransactionsController (ParkWayProjectsTask1).
+2021-02-26 20:08:34.639 +01:00 [INF] Message: Transaction Fee Calculation was Successful Transfer Amount: N100 Charge: N10
+2021-02-26 20:08:34.639 +01:00 [INF] Executing ViewResult, running view CalculateTransactionFee.
+2021-02-26 20:08:34.641 +01:00 [INF] Executed ViewResult - view CalculateTransactionFee executed in 2.2036ms.
+2021-02-26 20:08:34.641 +01:00 [INF] Executed action ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1) in 177.4387ms
+2021-02-26 20:08:34.641 +01:00 [INF] Executed endpoint 'ParkWayProjectsTask1.Controllers.TransactionsController.CalculateTransactionFee (ParkWayProjectsTask1)'
+2021-02-26 20:08:34.642 +01:00 [INF] Request finished in 197.9105ms 200 text/html; charset=utf-8

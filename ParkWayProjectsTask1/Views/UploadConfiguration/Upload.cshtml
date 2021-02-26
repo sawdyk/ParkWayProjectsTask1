@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Upload Fee Configuration";
+}
+<div class="col-md-4 form-holder" style="margin-left:350px;">
+    <!-- <div class="form-holder"> -->
+    <div class="form-content">
+        <div class="form-items">
+            <div class="page-links">
+                <a href="#" class="active">Upload Configuration File in Json Format</a>
+            </div>
+            <br />
+            @if (ViewData["message"] != null)
+            {
+                @ViewData["message"];
+            }
+            <br />
+            <form method="post" enctype="multipart/form-data">
+                <input asp type="file" name="configurationFile" class="form-control" />
+                <br />
+                <div class="form-button">
+                    <button id="submit" type="submit" class="btn btn-primary">Upload</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- </div> -->
+</div>

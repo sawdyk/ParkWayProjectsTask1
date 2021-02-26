@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Upload Fee Configuration";
+}
+
+<div class="col-md-4 form-holder" style="margin-left:350px;">
+    <!-- <div class="form-holder"> -->
+    <div class="form-content">
+
+        <div class="form-items">
+            <div class="page-links">
+                <a href="#" class="active">TRANSACTION FEE CALCULATOR</a>
+            </div>
+            
+            @if (ViewData["Message"] != null)
+            {
+                @ViewData["Message"];
+            }
+            <br /><br />
+            <form method="post">
+                <input asp type="text" name="amount" required placeholder="Enter Amount to be transferred" class="form-control" onkeypress="return isNumber(event)" />
+                <br />
+                <div class="form-button">
+                    <button id="submit" type="submit" class="btn btn-primary">Calculate Charge</button>
+                </div>
+            </form>
+            <br />
+            @if (ViewData["TransferAmount"] != null && ViewData["Charge"] != null)
+            {
+                @ViewData["TransferAmount"];
+                <br />
+                @ViewData["Charge"];
+            }
+        </div>
+    </div>
+    <!-- </div> -->
+</div>
