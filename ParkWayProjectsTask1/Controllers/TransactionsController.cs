@@ -30,27 +30,40 @@ namespace ParkWayProjectsTask1.Controllers
         [HttpGet]
         public IActionResult CalculateTransactionFee()
         {
-            return View();
+            try
+            {
+                return View();
+            }
+            catch
+            {
+                return View("Error1");
+            }
         }
 
         [HttpPost]
         public async Task<IActionResult> CalculateTransactionFee(long amount)
         {
-            if (!ModelState.IsValid)
+            try
             {
-                return BadRequest();
+                if (!ModelState.IsValid)
+                {
+                    return View("Error1");
+                }
+
+                var result = await _transactionsRepo.calculateTransactionFeeAsync(amount);
+
+                ViewData["Message"] = result.Message;
+                ViewData["TransferAmount"] = result.TransferAmount;
+                ViewData["Charge"] = result.Charge;
+
+
+                return View();
             }
-
-            var result = await _transactionsRepo.calculateTransactionFeeAsync(amount);
-
-            ViewData["Message"] = result.Message;
-            ViewData["TransferAmount"] = result.TransferAmount;
-            ViewData["Charge"] = result.Charge;
-
-            //logs the information of the transaction
-            _logger.LogInformation(string.Format("Message: {0} {1} {2}", result.Message, result.TransferAmount, result.Charge));
-
-            return View();
+            catch
+            {
+                return View("Error1");
+            }
+            
         }
     }
 }

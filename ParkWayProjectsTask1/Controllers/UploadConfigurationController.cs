@@ -26,7 +26,14 @@ namespace ParkWayProjectsTask1.Controllers
         [HttpGet]
         public IActionResult Upload()
         {
-            return View();
+            try
+            {
+                return View();
+            }
+            catch
+            {
+                return View("Error1");
+            }
         }
 
         // POST: UploadConfigurationController/
@@ -37,7 +44,7 @@ namespace ParkWayProjectsTask1.Controllers
             {
                 if (!ModelState.IsValid)
                 {
-                    return View();
+                    return View("Error1");
                 }
 
                 var result = await _uploadConfigurationRepo.uploadConfigurationFileAsync(configurationFile);
@@ -47,7 +54,7 @@ namespace ParkWayProjectsTask1.Controllers
             }
             catch
             {
-                return View();
+                return View("Error1");
             }
         }
     }
